@@ -1,5 +1,5 @@
 # Bike-Sharing-Demand-Prediction
-#📌 1. Project Description
+
 This project aims to predict the number of bike rentals on a given day using historical data and machine learning models. The prediction is based on factors like weather, temperature, humidity, season, time of day, and more. This use case is inspired by real-world bike-sharing platforms, which can benefit from accurate demand forecasting to optimize fleet management and service availability.
 
 The notebook explores preprocessing, feature engineering, model training, and evaluation, all using Python and Scikit-learn.
